@@ -1,0 +1,3 @@
+[submodule "TalentHeaven-auth-service"]
+	path = TalentHeaven-auth-service
+	url = https://github.com/Sreejith-10/TalentHeaven-auth-service.git
