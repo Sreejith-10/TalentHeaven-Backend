@@ -1,3 +1,12 @@
 [submodule "TalentHeaven-auth-service"]
 	path = TalentHeaven-auth-service
 	url = https://github.com/Sreejith-10/TalentHeaven-auth-service.git
+[submodule "TalentHeaven-user-service"]
+	path = TalentHeaven-user-service
+	url = https://github.com/Sreejith-10/TalentHeaven-user-service.git
+[submodule "TalentHeaven-recruiter-service"]
+	path = TalentHeaven-recruiter-service
+	url = https://github.com/Sreejith-10/TalentHeaven-recruiter-service.git
+[submodule "TalentHeaven-job-service"]
+	path = TalentHeaven-job-service
+	url = https://github.com/Sreejith-10/TalentHeaven-job-service.git
