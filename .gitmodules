@@ -13,3 +13,6 @@
 [submodule "TalentHeaven-websocket-service"]
 	path = TalentHeaven-websocket-service
 	url = https://github.com/Sreejith-10/TalentHeaven-websocket-service
+[submodule "TalentHeaven-chat-service"]
+	path = TalentHeaven-chat-service
+	url = https://github.com/Sreejith-10/TalentHeaven-chat-service
