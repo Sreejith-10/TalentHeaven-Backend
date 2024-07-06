@@ -10,3 +10,6 @@
 [submodule "TalentHeaven-job-service"]
 	path = TalentHeaven-job-service
 	url = https://github.com/Sreejith-10/TalentHeaven-job-service.git
+[submodule "TalentHeaven-websocket-service"]
+	path = TalentHeaven-websocket-service
+	url = https://github.com/Sreejith-10/TalentHeaven-websocket-service
