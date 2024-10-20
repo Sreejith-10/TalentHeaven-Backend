@@ -8,7 +8,6 @@ The server for TalentHeaven A place to find your ideal job. This is a microserve
 - Authentication Service
 - Chat Service
 - Recruiter Service
-- Notification Service
+- WebSocket Service
 - User Service
 - Mail Service
-<!-- - Search,Sort,Filter Service -->
